@@ -7,3 +7,6 @@ __Contents:__
 - Writing Your First Python Code (Types)
 - String Operations
 - Tuples in Python
+- Lists in Python
+- Dictionaries in Python
+- Sets in Python
