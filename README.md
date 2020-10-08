@@ -10,3 +10,6 @@ __Contents:__
 - Lists in Python
 - Dictionaries in Python
 - Sets in Python
+- Conditions in Python
+- Loops in Python
+- Functions in Python
