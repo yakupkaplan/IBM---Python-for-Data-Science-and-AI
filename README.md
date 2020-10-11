@@ -13,3 +13,6 @@ __Contents:__
 - Conditions in Python
 - Loops in Python
 - Functions in Python
+- Classes and Objects in Python
+- Reading Files in Python
+- Write and Save Files in Python
