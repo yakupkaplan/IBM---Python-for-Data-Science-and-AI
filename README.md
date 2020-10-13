@@ -16,3 +16,6 @@ __Contents:__
 - Classes and Objects in Python
 - Reading Files in Python
 - Write and Save Files in Python
+- 1D Numpy in Python
+- 2D Numpy in Python
+- Introduction to API
